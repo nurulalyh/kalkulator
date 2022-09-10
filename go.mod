@@ -1,3 +1,3 @@
-module github.com/nurulalyh/kalkulator-test
+module github.com/nurulalyh/kalkulator
 
 go 1.19
