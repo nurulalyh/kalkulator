@@ -1,7 +1,6 @@
 package kalkulator
 
 import "fmt"
- 
 
 func main() {
 	LCube, VCube := Kubus(2.5)
